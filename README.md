@@ -36,13 +36,17 @@ instate of creating by using new keyword it create object automatically with the
 
 1)Field injection 
 it is optional injection 
-it get baically more time to create object because it use reflection concept
+it get baically more time to create object because it use reflection concept internally 
 
 2)setter injection
 If we want  to make dependency injection optional then we go for setter injection
 
 3)Construtor Injection
-if we weant to make dependeny injection mandatory then go with this 
+if we want to make dependeny injection mandatory then go with this 
+
+but most use injection type is filed injection 
+
+
 
 
 
